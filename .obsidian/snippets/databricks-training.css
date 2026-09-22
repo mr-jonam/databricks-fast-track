@@ -1,0 +1,12 @@
+.markdown-rendered h1 {
+  color: #ff3621;
+}
+
+.markdown-rendered blockquote {
+  border-left-color: #ff3621;
+}
+
+.tag[href="#databricks"] {
+  background-color: #ff3621;
+  color: white;
+}

@@ -1,0 +1,18 @@
+Databricks Fast Track
+Copyright 2026 mr-jonam
+
+Educational prose, learning paths, exercises, and Markdown diagrams:
+  Creative Commons Attribution 4.0 International (CC BY 4.0).
+  See LICENSE-DOCS.md.
+
+Code samples, scripts, configuration, and automation:
+  Apache License 2.0.
+  See LICENSE.
+
+Databricks, Delta Lake, MLflow, Apache Spark, and Obsidian are trademarks or
+product names of their respective owners. This independent educational project
+is not affiliated with, sponsored by, or endorsed by Databricks, Inc. or
+Obsidian. Product names are used only for identification and teaching.
+
+No third-party source code, datasets, logos, or documentation text is bundled.
+Links point to official documentation where appropriate.

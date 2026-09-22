@@ -1,0 +1,19 @@
+# Obsidian per-user state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.trash/
+
+# Local tooling
+.codex/
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.DS_Store
+Thumbs.db
+
+# Databricks local state and secrets
+.databricks/
+*.tfstate
+*.tfstate.*
